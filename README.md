@@ -73,4 +73,4 @@ dataflow/
 ## Notes
 
 - You must visualize the trees and run BLAST (online) to annotate representative sequences  
-- For the assignment, include tree images + short interpretation  
+- Example tree images + short interpretation see pdf Documents  
